@@ -8,6 +8,24 @@ for(var i=0; i <numbers.length; i++) {
 
 
 
+// function display(x,secondfunc){
+
+
+
+// }
+
+
+// function shefasebisfunc(price){
+
+
+
+// }
+
+
+
+
+// display (
+
 
 
 
